@@ -1,6 +1,6 @@
 # Internet Retail
 
-With this application you will have the ability to locate all objects in the databasa and make necessary updates from the back-end using MySQL.
+With this application you will have the ability to locate all objects in the database and make necessary updates from the back-end using MySQL.
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ npm install dotenv --save
 ```
 ## Walkthrough Video
 
-Click [Here]
+Click [Here](https://drive.google.com/file/d/1AsqfJo3o4HwJbZ08osB_rV9-lnZu4teV/view)
 
 ## Questions 
 GitHub: [Karina-June](https://github.com/Karina-June)
