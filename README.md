@@ -1,6 +1,6 @@
 # Internet Retail
 
-
+With this application you will have the ability to locate all objects in the databasa and make necessary updates from the back-end using MySQL.
 
 ## Table of Contents
 
